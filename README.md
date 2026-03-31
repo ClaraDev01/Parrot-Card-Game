@@ -1,11 +1,11 @@
 # 🦜 Parrot Card Game
 
-A themed memory card game featuring dancing parrots! Built with JavaScript, HTML and CSS — no libraries used.
+A themed memory card game featuring dancing parrots! Built with JavaScript, HTML and CSS — no libraries used!
 
 ## 🎮 Preview
 
 <div align="center">
-  <img src="./preview.gif" alt="Parrot Card Game" width="400">
+  <img src="./preview.gif" alt="Parrot Card Game" width="450">
 </div>
 
 ## 🚀 Live Demo
